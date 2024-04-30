@@ -24,7 +24,7 @@ The dataset includes information such as Order ID, Order Date, Ship Date, Produc
 4.	Refer to the column charts and dashboard for visual representations of the sales data.
 
 
-## Formulas Used in the Project
+## Important Formulas Used in the Project
 ### Formula 1: Sales and Profit Analysis
 
 ```excel
